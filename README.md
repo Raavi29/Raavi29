@@ -6,7 +6,7 @@
   <a href="https://raavi29.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-raavi29.github.io-D9B45A?style=for-the-badge&labelColor=082A22"></a>
   <a href="https://linkedin.com/in/parneet-kaur-forensics"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-parneet--kaur--forensics-D9B45A?style=for-the-badge&labelColor=082A22&logo=linkedin&logoColor=D9B45A"></a>
   <a href="mailto:raavi29706@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raavi29706%40gmail.com-D9B45A?style=for-the-badge&labelColor=082A22&logo=gmail&logoColor=D9B45A"></a>
-  <a href="https://www.geeksforgeeks.org/profile/raavi29706"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-raavi29706-D9B45A?style=for-the-badge&labelColor=082A22&logo=geeksforgeeks&logoColor=D9B45A"></a>
+  <a href="https://leetcode.com/u/Raavi29/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Raavi29-D9B45A?style=for-the-badge&labelColor=082A22&logo=leetcode&logoColor=D9B45A"></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
