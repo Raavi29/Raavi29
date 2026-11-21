@@ -13,7 +13,7 @@
 
 Second-year B.Tech CSE (Cybersecurity) student at DBS Global University, Dehradun. I work on hardware security and digital forensics. Where I want to end up is investigative forensics at an international level.
 
-My portfolio has a chip die on it. Move your cursor over it and it x-rays what is underneath. Go and try it: **[raavi29.github.io](https://raavi29.github.io)**
+My portfolio has a chip die on it. Move your cursor over it and it x-rays what is underneath. There is also a simulated power-analysis attack you can run, with a slider for the number of traces. Go and try it: **[raavi29.github.io](https://raavi29.github.io)**
 
 <p align="center"><img src="assets/stats.svg" alt="62 confirmed findings on one secure element. 11 sequential PIN attempts checked for key destruction. 4 years of ransomware research reviewed. 3 hackathon finales reached." width="100%"></p>
 
