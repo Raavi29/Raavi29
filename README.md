@@ -1,50 +1,71 @@
-# Parneet Kaur
+<p align="center">
+  <img src="assets/banner.svg" alt="Parneet Kaur. Hardware security and digital forensics." width="100%">
+</p>
 
-I test whether secure chips do what their datasheets say.
+<p align="center">
+  <a href="https://raavi29.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-raavi29.github.io-D9B45A?style=for-the-badge&labelColor=082A22"></a>
+  <a href="https://linkedin.com/in/parneet-kaur-forensics"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-parneet--kaur--forensics-D9B45A?style=for-the-badge&labelColor=082A22&logo=linkedin&logoColor=D9B45A"></a>
+  <a href="mailto:raavi29706@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raavi29706%40gmail.com-D9B45A?style=for-the-badge&labelColor=082A22&logo=gmail&logoColor=D9B45A"></a>
+  <a href="https://www.geeksforgeeks.org/profile/raavi29706"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-raavi29706-D9B45A?style=for-the-badge&labelColor=082A22&logo=geeksforgeeks&logoColor=D9B45A"></a>
+</p>
 
-Second-year B.Tech CSE (Cybersecurity) student at DBS Global University, Dehradun. I work on hardware security and digital forensics, and I want to end up doing investigative forensics at an international level.
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-[Portfolio](https://raavi29.github.io) | [LinkedIn](https://linkedin.com/in/parneet-kaur-forensics) | [Email](mailto:raavi29706@gmail.com) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/raavi29706)
+Second-year B.Tech CSE (Cybersecurity) student at DBS Global University, Dehradun. I work on hardware security and digital forensics. Where I want to end up is investigative forensics at an international level.
 
-## What I am working on now
+My portfolio has a chip die on it. Move your cursor over it and it x-rays what is underneath. Go and try it: **[raavi29.github.io](https://raavi29.github.io)**
 
-- Power analysis of a secure element with a ChipWhisperer Husky, at the de.ci.phe.red Lab, IIT Bhilai.
-- RansomGuard, a ransomware detector that collects forensic evidence the moment it fires. Solo project, architecture phase.
-- Open source contributions at the VLED Lab, IIT Ropar, and to OWASP Nettacker.
+<p align="center"><img src="assets/stats.svg" alt="62 confirmed findings on one secure element. 11 sequential PIN attempts checked for key destruction. 4 years of ransomware research reviewed. 3 hackathon finales reached." width="100%"></p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+## Boot log
+
+<p align="center"><img src="assets/bootlog.svg" alt="Timeline of milestones from 2023 to 2027" width="100%"></p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Research
 
-**Towards Intelligent Ransomware Defence: A Computational-Intelligence-Driven Thematic Review of Detection, Forensics, and Recovery.** With Prof. Merry KP. Accepted and presented at IJCACI 2026 in July. It reviews four years of machine learning and deep learning ransomware detection work, and I validated the techniques in FlareVM and REMnux. The gap it found between detection accuracy and forensic recoverability is what RansomGuard tries to close.
+**TROPIC01 secure element analysis.** An independent analysis of Tropic Square's development kit at the de.ci.phe.red Lab, IIT Bhilai, under Dr. Dhiman Saha. I read the USB descriptors, tested the SPI protocol against its conformance spec, decompiled the STM32 firmware in Ghidra, and checked that Mac-and-Destroy key destruction holds across 11 sequential PIN attempts. It produced 62 confirmed findings and a conformance test suite. Power analysis with a ChipWhisperer Husky has started. The code is lab-restricted, so there is no public repository.
 
-**TROPIC01 secure element analysis.** An independent analysis of Tropic Square's development kit at IIT Bhilai, supervised by Dr. Dhiman Saha. I read the USB descriptors, tested the SPI protocol against its conformance spec, decompiled the STM32 firmware in Ghidra, and checked that Mac-and-Destroy key destruction holds across 11 sequential PIN attempts. It produced 62 confirmed findings and a conformance test suite. The code is lab-restricted, so there is no public repository.
+**Towards Intelligent Ransomware Defence.** A systematic review of machine learning and deep learning ransomware detection across four years of literature, with Prof. Merry KP. Accepted and presented at IJCACI 2026 in July, and validated in FlareVM and REMnux. It found a gap between detection accuracy and forensic recoverability.
 
-**TrusToken and Rowhammer.** Attack and analysis work on a cryptographic USB token built by C-DAC Noida and IIT Bhilai, plus a Rowhammer implementation in a simulated environment. Both stay private.
+**RansomGuard.** A solo project that closes that gap. It detects ransomware behaviour and collects forensic evidence at the moment it fires: affected files, process tree, network state and a timestamped evidence chain. Architecture phase. Python, watchdog, psutil, scikit-learn, SQLite, Streamlit.
 
-## Experience
+**TrusToken and Rowhammer.** Attack and analysis work on a cryptographic USB token built by C-DAC Noida and IIT Bhilai, and a Rowhammer attack in a simulated environment. Both stay private.
 
-| Dates | Role | Where |
-|---|---|---|
-| Jun to Aug 2026 | Research Intern | de.ci.phe.red Lab, IIT Bhilai |
-| Jun to Dec 2026 | Open Source Intern | VLED Lab, IIT Ropar |
-| Jun to Jul 2026 | Social work intern | CRO Consumer Rights Organisation, Moga |
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Open source
 
-- OWASP Nettacker: one merged pull request. I researched CVE-2025-32756, an existing critical remote code execution flaw in Fortinet FortiVoice, to improve the scanner's detection modules. I applied to GSoC 2026, was not selected, and kept contributing.
-- GirlScript Summer of Code: contributor.
+- **OWASP Nettacker.** One merged pull request. I researched CVE-2025-32756, an existing critical remote code execution flaw in Fortinet FortiVoice, to improve the scanner's detection modules. I applied to GSoC 2026, was not selected, and kept contributing.
+- **VLED Lab, IIT Ropar.** Open Source Intern under Prof. Sudarshan Iyengar, with commits on a live public repository. It runs to the end of December 2026.
+- **GirlScript Summer of Code.** Contributor.
 
 ## Competitions
 
-- Saheli, CII Yi Yuva National Grand Finale 2026. A WhatsApp-first labour marketplace for homebound women, with trust scores, UPI payouts and Hindi voice input. I led the team.
-- GreenLight, Smart India Hackathon 2025 National Finalist at IIIT Dharwad. Traffic optimisation tested in SUMO. I was the primary presenter.
-- One True Friend, SAP Hackfest North Region 2026, finale round. An inclusive workforce intelligence platform. I led the team.
+| Project | Result | My part |
+|---|---|---|
+| Saheli, a WhatsApp-first labour marketplace for homebound women | CII Yi Yuva National Grand Finale 2026 | Team lead |
+| GreenLight, traffic optimisation tested in SUMO | Smart India Hackathon 2025 national finalist, IIIT Dharwad | Primary presenter |
+| One True Friend, an inclusive workforce intelligence platform | SAP Hackfest North Region 2026, finale round | Team lead |
 
-## Tools
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-Python, C, C++, Java, JavaScript. Ghidra, ChipWhisperer, Wireshark, Nmap, FlareVM, REMnux, Git, Linux. React and Node.js for web work.
+## Toolbench
 
-## Also
+![Python](https://img.shields.io/badge/Python-082A22?style=flat-square&logo=python&logoColor=D9B45A)
+![C](https://img.shields.io/badge/C-082A22?style=flat-square&logo=c&logoColor=D9B45A)
+![C++](https://img.shields.io/badge/C++-082A22?style=flat-square&logo=cplusplus&logoColor=D9B45A)
+![Java](https://img.shields.io/badge/Java-082A22?style=flat-square&logo=openjdk&logoColor=D9B45A)
+![JavaScript](https://img.shields.io/badge/JavaScript-082A22?style=flat-square&logo=javascript&logoColor=D9B45A)
+![Linux](https://img.shields.io/badge/Linux-082A22?style=flat-square&logo=linux&logoColor=D9B45A)
+![Git](https://img.shields.io/badge/Git-082A22?style=flat-square&logo=git&logoColor=D9B45A)
+![Wireshark](https://img.shields.io/badge/Wireshark-082A22?style=flat-square&logo=wireshark&logoColor=D9B45A)
 
-Silver Award at the Queen's Commonwealth Essay Competition (2023). Google Gemini Student Ambassador 2026. GeeksforGeeks Campus Mantri. Head of Sponsorships at TEDx DGU.
+Hardware: ChipWhisperer Husky, PhyWhisperer USB, SPI analysis, USB forensics. Reverse engineering: Ghidra. Forensics and malware: FlareVM and REMnux in a host-only home lab, Nmap. Web: React and Node.js.
 
-I am looking for research internships for summer 2027 and for collaborations in hardware security and digital forensics.
+I am looking for a research placement in summer 2027 and for collaborations in hardware security and digital forensics.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
