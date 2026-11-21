@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://raavi29.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-raavi29.github.io-D9B45A?style=for-the-badge&labelColor=082A22"></a>
-  <a href="https://linkedin.com/in/parneet-kaur-forensics"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-parneet--kaur--forensics-D9B45A?style=for-the-badge&labelColor=082A22&logo=linkedin&logoColor=D9B45A"></a>
-  <a href="mailto:raavi29706@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raavi29706%40gmail.com-D9B45A?style=for-the-badge&labelColor=082A22&logo=gmail&logoColor=D9B45A"></a>
-  <a href="https://leetcode.com/u/Raavi29/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Raavi29-D9B45A?style=for-the-badge&labelColor=082A22&logo=leetcode&logoColor=D9B45A"></a>
+  <a href="https://raavi29.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-raavi29.github.io-8B5CFF?style=for-the-badge&labelColor=09061A"></a>
+  <a href="https://linkedin.com/in/parneet-kaur-forensics"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-parneet--kaur--forensics-8B5CFF?style=for-the-badge&labelColor=09061A&logo=linkedin&logoColor=FFD23F"></a>
+  <a href="mailto:raavi29706@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raavi29706%40gmail.com-8B5CFF?style=for-the-badge&labelColor=09061A&logo=gmail&logoColor=FFD23F"></a>
+  <a href="https://leetcode.com/u/Raavi29/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Raavi29-8B5CFF?style=for-the-badge&labelColor=09061A&logo=leetcode&logoColor=FFD23F"></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 Second-year B.Tech CSE (Cybersecurity) student at DBS Global University, Dehradun. I work on hardware security and digital forensics. Where I want to end up is investigative forensics at an international level.
 
-My portfolio has a chip die on it. Move your cursor over it and it x-rays what is underneath. There is also a simulated power-analysis attack you can run, with a slider for the number of traces. Go and try it: **[raavi29.github.io](https://raavi29.github.io)**
+My portfolio is a forensics lab. A UV lamp follows your cursor and reveals hidden evidence, an evidence board joins my projects with red string, and there is a simulated power-analysis attack you can run with a slider for the number of traces. I am starting to write field notes there too. Go and look: **[raavi29.github.io](https://raavi29.github.io)**
 
 <p align="center"><img src="assets/stats.svg" alt="62 confirmed findings on one secure element. 11 sequential PIN attempts checked for key destruction. 4 years of ransomware research reviewed. 3 hackathon finales reached." width="100%"></p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-## Boot log
+## Chain of custody
 
 <p align="center"><img src="assets/bootlog.svg" alt="Timeline of milestones from 2023 to 2027" width="100%"></p>
 
@@ -55,14 +55,14 @@ My portfolio has a chip die on it. Move your cursor over it and it x-rays what i
 
 ## Toolbench
 
-![Python](https://img.shields.io/badge/Python-082A22?style=flat-square&logo=python&logoColor=D9B45A)
-![C](https://img.shields.io/badge/C-082A22?style=flat-square&logo=c&logoColor=D9B45A)
-![C++](https://img.shields.io/badge/C++-082A22?style=flat-square&logo=cplusplus&logoColor=D9B45A)
-![Java](https://img.shields.io/badge/Java-082A22?style=flat-square&logo=openjdk&logoColor=D9B45A)
-![JavaScript](https://img.shields.io/badge/JavaScript-082A22?style=flat-square&logo=javascript&logoColor=D9B45A)
-![Linux](https://img.shields.io/badge/Linux-082A22?style=flat-square&logo=linux&logoColor=D9B45A)
-![Git](https://img.shields.io/badge/Git-082A22?style=flat-square&logo=git&logoColor=D9B45A)
-![Wireshark](https://img.shields.io/badge/Wireshark-082A22?style=flat-square&logo=wireshark&logoColor=D9B45A)
+![Python](https://img.shields.io/badge/Python-130F26?style=flat-square&logo=python&logoColor=C9B2FF)
+![C](https://img.shields.io/badge/C-130F26?style=flat-square&logo=c&logoColor=C9B2FF)
+![C++](https://img.shields.io/badge/C++-130F26?style=flat-square&logo=cplusplus&logoColor=C9B2FF)
+![Java](https://img.shields.io/badge/Java-130F26?style=flat-square&logo=openjdk&logoColor=C9B2FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-130F26?style=flat-square&logo=javascript&logoColor=C9B2FF)
+![Linux](https://img.shields.io/badge/Linux-130F26?style=flat-square&logo=linux&logoColor=C9B2FF)
+![Git](https://img.shields.io/badge/Git-130F26?style=flat-square&logo=git&logoColor=C9B2FF)
+![Wireshark](https://img.shields.io/badge/Wireshark-130F26?style=flat-square&logo=wireshark&logoColor=C9B2FF)
 
 Hardware: ChipWhisperer Husky, PhyWhisperer USB, SPI analysis, USB forensics. Reverse engineering: Ghidra. Forensics and malware: FlareVM and REMnux in a host-only home lab, Nmap. Web: React and Node.js.
 

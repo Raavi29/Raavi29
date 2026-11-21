@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 36" width="1280" height="36" role="presentation">
-<style>.s{animation:s 4s linear infinite}@keyframes s{to{transform:translateX(-64px)}}</style>
-<defs><clipPath id="c"><rect width="1280" height="36"/></clipPath><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#d9b45a" stop-opacity="0"/><stop offset=".15" stop-color="#d9b45a"/><stop offset=".85" stop-color="#d9b45a"/><stop offset="1" stop-color="#d9b45a" stop-opacity="0"/></linearGradient></defs>
-<g clip-path="url(#c)"><g class="s"><path d="M0 28 H4 V8 H36.0 V28 H64 H68 V8 H100.0 V28 H128 H132 V8 H164.0 V28 H192 H196 V8 H228.0 V28 H256 H260 V8 H292.0 V28 H320 H324 V8 H356.0 V28 H384 H388 V8 H420.0 V28 H448 H452 V8 H484.0 V28 H512 H516 V8 H548.0 V28 H576 H580 V8 H612.0 V28 H640 H644 V8 H676.0 V28 H704 H708 V8 H740.0 V28 H768 H772 V8 H804.0 V28 H832 H836 V8 H868.0 V28 H896 H900 V8 H932.0 V28 H960 H964 V8 H996.0 V28 H1024 H1028 V8 H1060.0 V28 H1088 H1092 V8 H1124.0 V28 H1152 H1156 V8 H1188.0 V28 H1216 H1220 V8 H1252.0 V28 H1280 H1284 V8 H1316.0 V28 H1344 H1348 V8 H1380.0 V28 H1408" fill="none" stroke="url(#f)" stroke-width="2"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 28" width="1280" height="28" role="presentation">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8b5cff" stop-opacity="0"/><stop offset=".5" stop-color="#c9b2ff"/><stop offset="1" stop-color="#8b5cff" stop-opacity="0"/></linearGradient></defs>
+<rect x="40" y="13" width="1200" height="2" fill="#c9b2ff" fill-opacity=".18"/>
+<rect y="12" width="320" height="4" rx="2" fill="url(#g)"><animate attributeName="x" values="-320;1280" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="632" y="8" width="16" height="16" fill="#ffd23f" transform="rotate(45 640 16)"/></svg>
